@@ -27,7 +27,7 @@ import (
 	"sigs.k8s.io/controller-runtime/pkg/log"
 
     // ⚠️ Change the github repository name with your own repository name ⚠️
-	frwildav1 "github.com/philippart-s/voxxed-days-go-operator/api/v1"
+	frwildav1 "github.com/philippart-s/breizh-camp-go-operator/api/v1"
 )
 
 // NginxOperatorReconciler reconciles a NginxOperator object
